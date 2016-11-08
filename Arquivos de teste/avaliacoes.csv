@@ -1,0 +1,9 @@
+Disciplina;Código;Nome;Peso;Tipo;Data;Tamanho Máximo Grupo
+ELE00010;Circ-P1;Prova 1 Cricuitos;1;P;02/04/2015
+ELE00010;Circ-P2;Prova 2 Cricuitos;1;P;11/05/2015
+ELE00010;Circ-P3;Prova 3 Cricuitos;1;P;06/06/2015
+ELE00001;InstEl-P1;Prova 1 Instalaçoes Eletricas;1;P;25/04/2015
+ELE00001;InstEl-P2;Prova 2 Instalaçoes Eletricas;1;P;02/06/2015
+ELE00001;InstEl-Projeto;Projeto Instalaçoes Eletricas;2;T;15/06/2015;5
+ELE00010;Cric-PF;Prova Final Circuitos;1;F;15/06/2015
+ELE00001;Instel-PF;Prova Final Instalaçoes Eletricas;1;F;25/06/2015
